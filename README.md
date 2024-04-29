@@ -2,7 +2,7 @@
 
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cloudsoswift.github.io/)](https://cloudsoswift.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magic9282m@gmail.com)](mailto:magic9282m@gmail.com)
-[![Google Drive - Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1eep8ddftsvUo1JJ1TIg4NTNkNP5oM-mc/view?usp=sharing)](https://drive.google.com/file/d/1oeJRvHm5JmfpH_qA-6t9GaBQWveEMv2m/view?usp=sharing)
+[![Google Drive - Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1eep8ddftsvUo1JJ1TIg4NTNkNP5oM-mc/view?usp=sharing)](https://drive.google.com/file/d/1aururjNBWF3l9PnUocPdd6rq5t3XbpeK/view?usp=drive_link)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttosciurop)](https://solved.ac/ttosciurop/)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cloudsoswift&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)</br>
