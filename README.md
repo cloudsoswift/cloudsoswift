@@ -10,7 +10,7 @@
 # Experience
 | Period  | Program  |  Organization |
 |---|---|---|
-| 2024.12 - Present , <br /> 2023.11 - 2024.1 | [Effective Java 스터디](https://github.com/orm712/CS-712)  |   |
+| 2024.12 - Present , <br /> 2023.11 - 2024.1 | [Effective Java 스터디](https://github.com/orm712/effective-712)  |   |
 | 2024.03 - 2024.05 | [SSAFY 취업 스터디 - CS 스터디](https://github.com/SsafyStudy13/CS_Study)  |   |
 | 2024.01 - 2024.12 | [CS 스터디](https://github.com/orm712/CS-712)  |   |
 | 2022.07 - 2023.06 | 삼성청년SW아카데미 8기  | 삼성전자  |
